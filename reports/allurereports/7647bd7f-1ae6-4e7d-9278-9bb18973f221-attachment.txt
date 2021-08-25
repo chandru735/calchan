@@ -1,0 +1,45 @@
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: text with the locatorValue :Agree
+[32mINFO    [0m BasePage:BasePage.py:90  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: text with the locatorValue :Don't agree
+[32mINFO    [0m BasePage:BasePage.py:90  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+[32mINFO    [0m BasePage:BasePage.py:111 single tapped on the element
+[32mINFO    [0m BasePage:BasePage.py:54 Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+[32mINFO    [0m BasePage:BasePage.py:68 Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
