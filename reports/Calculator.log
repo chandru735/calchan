@@ -1,0 +1,725 @@
+19/08/21 01:56:23 PM Thursday - <module> - INFO : Launching app
+19/08/21 02:55:43 PM Thursday - <module> - INFO : Launching app
+19/08/21 02:56:29 PM Thursday - <module> - INFO : Launching app
+19/08/21 02:58:53 PM Thursday - <module> - INFO : Launching app
+19/08/21 03:00:19 PM Thursday - <module> - INFO : Launching app
+19/08/21 04:13:48 PM Thursday - <module> - INFO : Launching app
+19/08/21 04:13:48 PM Thursday - BasePage - INFO : Element found with LocatorType: idwith the locatorvalue :android:id/button1
+19/08/21 04:15:02 PM Thursday - <module> - INFO : Launching app
+19/08/21 04:15:03 PM Thursday - BasePage - INFO : Element found with LocatorType: idwith the locatorvalue :android:id/button2
+19/08/21 04:15:57 PM Thursday - <module> - INFO : Launching app
+19/08/21 04:17:11 PM Thursday - <module> - INFO : Launching app
+19/08/21 04:17:21 PM Thursday - BasePage - INFO : Element found with LocatorType: idwith the locatorvalue :android:id/button2
+19/08/21 04:18:16 PM Thursday - <module> - INFO : Launching app
+19/08/21 04:18:17 PM Thursday - BasePage - INFO : Element found with LocatorType: idwith the locatorvalue :android:id/button2
+19/08/21 05:11:46 PM Thursday - <module> - INFO : Launching app
+19/08/21 05:11:47 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/agree_19_08_21_17_11_47.png
+19/08/21 05:11:48 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/disagree_19_08_21_17_11_47.png
+19/08/21 05:11:48 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button2
+19/08/21 05:11:48 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button2
+19/08/21 09:54:29 PM Thursday - <module> - INFO : Launching app
+19/08/21 09:54:30 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/main_19_08_21_21_54_29.png
+19/08/21 09:54:30 PM Thursday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+19/08/21 09:54:30 PM Thursday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+19/08/21 09:54:30 PM Thursday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+19/08/21 09:54:30 PM Thursday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+19/08/21 09:54:30 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+19/08/21 09:54:30 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+19/08/21 09:54:41 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+19/08/21 09:54:42 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+19/08/21 09:54:42 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+19/08/21 09:54:42 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+19/08/21 09:55:07 PM Thursday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch_s
+19/08/21 09:55:07 PM Thursday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch_s
+19/08/21 09:55:33 PM Thursday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2nd
+19/08/21 09:55:33 PM Thursday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2nd
+19/08/21 09:55:33 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_float_btn
+19/08/21 09:55:33 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_float_btn
+19/08/21 09:56:51 PM Thursday - <module> - INFO : Launching app
+19/08/21 09:56:51 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/main_19_08_21_21_56_51.png
+19/08/21 09:56:52 PM Thursday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+19/08/21 09:56:52 PM Thursday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+19/08/21 09:56:52 PM Thursday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+19/08/21 09:56:52 PM Thursday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+19/08/21 09:56:52 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+19/08/21 09:56:52 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+19/08/21 09:57:03 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+19/08/21 09:57:03 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+19/08/21 09:57:03 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+19/08/21 09:57:04 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+19/08/21 09:57:30 PM Thursday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch_s
+19/08/21 09:57:30 PM Thursday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch_s
+19/08/21 09:57:30 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/switch_19_08_21_21_57_30.png
+19/08/21 09:57:56 PM Thursday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2nd
+19/08/21 09:57:56 PM Thursday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2nd
+19/08/21 09:57:56 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/2nd switch_19_08_21_21_57_56.png
+19/08/21 09:57:56 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_float_btn
+19/08/21 09:57:56 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_float_btn
+19/08/21 10:03:09 PM Thursday - <module> - INFO : Launching app
+19/08/21 10:03:10 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/main_19_08_21_22_03_09.png
+19/08/21 10:03:10 PM Thursday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+19/08/21 10:03:10 PM Thursday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+19/08/21 10:03:10 PM Thursday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+19/08/21 10:03:10 PM Thursday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+19/08/21 10:03:10 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+19/08/21 10:03:10 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+19/08/21 10:03:21 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+19/08/21 10:03:21 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+19/08/21 10:03:22 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+19/08/21 10:03:22 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+19/08/21 10:03:23 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+19/08/21 10:03:24 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+19/08/21 10:03:24 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/switch_19_08_21_22_03_24.png
+19/08/21 10:03:24 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch_s
+19/08/21 10:03:25 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch_s
+19/08/21 10:03:25 PM Thursday - BasePage - INFO : Screenshot save to Path : ../screenshots/2nd switch_19_08_21_22_03_25.png
+19/08/21 10:03:26 PM Thursday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_float_btn
+19/08/21 10:03:26 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_float_btn
+20/08/21 11:01:03 AM Friday - <module> - INFO : Launching app
+20/08/21 11:01:03 AM Friday - BasePage - INFO : Screenshot save to Path : ../screenshots/main_20_08_21_11_01_03.png
+20/08/21 11:01:03 AM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 11:01:03 AM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 11:01:03 AM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 11:01:03 AM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 11:01:03 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 11:01:03 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 11:01:15 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 11:01:15 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 11:01:15 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 11:01:16 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 11:01:16 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 11:01:17 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 11:01:18 AM Friday - BasePage - INFO : Screenshot save to Path : ../screenshots/switch_20_08_21_11_01_17.png
+20/08/21 11:01:18 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch_s
+20/08/21 11:01:19 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch_s
+20/08/21 11:01:19 AM Friday - BasePage - INFO : Screenshot save to Path : ../screenshots/2nd switch_20_08_21_11_01_19.png
+20/08/21 11:01:20 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_float_btn
+20/08/21 11:01:20 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_float_btn
+20/08/21 03:08:48 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 03:08:48 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 03:08:49 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 03:08:49 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 03:09:14 PM Friday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 03:09:14 PM Friday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 03:09:28 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 03:09:28 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 03:09:29 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 03:09:29 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 03:09:29 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 03:09:30 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 03:09:30 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 03:09:31 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 03:09:31 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 03:09:32 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 03:09:32 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 03:09:32 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 03:09:32 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 03:09:33 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 03:09:33 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 03:09:34 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 03:09:34 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 03:09:35 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 03:09:35 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 03:09:35 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 03:09:35 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 03:09:36 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 03:09:36 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 03:09:36 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 03:09:37 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 03:09:37 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 03:09:38 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 03:09:39 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 03:09:39 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 03:09:40 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 03:09:40 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 03:09:40 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 03:09:41 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 03:09:41 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 03:10:07 PM Friday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 03:10:07 PM Friday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 04:05:48 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 04:05:48 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 04:05:48 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 04:05:48 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 04:05:48 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 04:05:48 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 04:05:59 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 04:05:59 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 04:06:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 04:06:01 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 04:06:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 04:06:01 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 04:06:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 04:06:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 04:06:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 04:06:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 04:06:04 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 04:06:04 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 04:06:04 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 04:06:04 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 04:06:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 04:06:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 04:06:06 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 04:06:06 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 04:06:06 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 04:06:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 04:06:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 04:06:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 04:06:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 04:06:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 04:06:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 04:06:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 04:06:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 04:06:10 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 04:06:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 04:06:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 04:06:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 04:06:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 04:06:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 04:06:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 04:06:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 04:06:13 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 04:06:39 PM Friday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 04:06:39 PM Friday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 04:39:37 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 04:39:37 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 04:39:37 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 04:39:37 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 04:39:37 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 04:39:37 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 04:39:48 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 04:39:49 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 04:39:49 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 04:39:50 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 04:39:50 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 04:39:51 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 04:39:51 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 04:39:51 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 04:39:52 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 04:39:52 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 04:39:52 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 04:39:53 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 04:39:53 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 04:39:53 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 04:39:54 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 04:39:55 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 04:39:55 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 04:39:55 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 04:39:56 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 04:39:56 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 04:39:56 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 04:39:56 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 04:39:57 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 04:39:57 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 04:39:58 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 04:39:58 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 04:39:59 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 04:39:59 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 04:39:59 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 04:40:00 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 04:40:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 04:40:01 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 04:40:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 04:40:01 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 04:40:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 04:40:02 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 04:40:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 04:40:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 05:05:50 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 05:05:51 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 05:05:51 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 05:05:51 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 05:05:51 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 05:05:51 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 05:06:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 05:06:02 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 05:06:02 PM Friday - BasePage - INFO : Locator value idnot found
+20/08/21 05:06:02 PM Friday - BasePage - INFO : Element found with LocatorType: com.miui.calculator:id/btn_1_s with the locatorValue :id
+20/08/21 05:06:02 PM Friday - BasePage - INFO :  single tapped on element id with locator id com.miui.calculator:id/btn_1_s
+20/08/21 05:06:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 05:06:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 05:06:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 05:06:04 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 05:06:04 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 05:06:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 05:06:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 05:06:06 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 05:06:06 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 05:06:06 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 05:06:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 05:06:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 05:06:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 05:06:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 05:06:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 05:06:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 05:06:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 05:06:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 05:06:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 05:06:10 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 05:06:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 05:06:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 05:06:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 05:06:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 05:06:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 05:06:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 05:06:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 05:06:14 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 05:06:14 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 05:06:14 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 05:06:15 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 05:06:15 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 05:06:16 PM Friday - BasePage - INFO : Element with keycode value 4 has been pressed
+20/08/21 05:06:16 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 05:06:17 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 05:27:56 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 05:27:56 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 05:27:56 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 05:27:56 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 05:27:56 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 05:27:56 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 05:28:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 05:28:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 05:28:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 05:28:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 05:28:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 05:28:10 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 05:28:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 05:28:10 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 05:28:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 05:28:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 05:28:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 05:28:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 05:28:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 05:28:13 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 05:28:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 05:28:13 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 05:28:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 05:28:14 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 05:28:14 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 05:28:14 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 05:28:15 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 05:28:15 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 05:28:16 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 05:28:16 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 05:28:16 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 05:28:16 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 05:28:17 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 05:28:18 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 05:28:18 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 05:28:19 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 05:28:19 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 05:28:20 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 05:28:20 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 05:28:20 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 05:28:20 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 05:28:20 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 05:28:20 PM Friday - BasePage - INFO : Locator value idnot found
+20/08/21 05:28:20 PM Friday - BasePage - INFO : Element found with LocatorType: com.miui.calculator:id/listview with the locatorValue :id
+20/08/21 05:28:21 PM Friday - BasePage - INFO :  single tapped on element id with locator id com.miui.calculator:id/listview
+20/08/21 05:28:46 PM Friday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 05:28:46 PM Friday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:01:51 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 06:01:51 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 06:01:51 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 06:01:51 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 06:01:51 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 06:01:51 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 06:02:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:02:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:02:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:02:04 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:02:04 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:02:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:02:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:02:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:02:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:02:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:02:06 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:02:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:02:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:02:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:02:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:02:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:02:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:02:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:02:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:02:10 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:02:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:02:10 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:02:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:02:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:02:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:02:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:02:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:02:13 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:02:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:02:14 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:02:14 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:02:15 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:02:15 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:02:15 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:02:15 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:02:15 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:02:16 PM Friday - BasePage - INFO :  single tapped on the element
+20/08/21 06:02:16 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:02:17 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:36:46 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 06:36:46 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 06:36:46 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 06:36:46 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 06:36:46 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 06:36:46 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 06:36:57 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:36:57 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:36:58 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:36:58 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:36:59 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:36:59 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:36:59 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:37:00 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:37:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:37:02 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:37:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:37:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:37:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:37:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:37:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:37:04 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:37:04 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:37:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:37:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:37:06 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:37:06 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:37:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:37:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:37:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:37:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:37:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:37:08 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:37:08 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:37:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:37:10 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:37:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:37:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:37:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:37:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:37:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:37:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:37:13 PM Friday - BasePage - INFO :  single tapped on the element
+20/08/21 06:37:38 PM Friday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:37:38 PM Friday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:40:38 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 06:40:38 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 06:40:38 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 06:40:38 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 06:40:38 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 06:40:38 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 06:40:39 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:40:39 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:40:40 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:40:40 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:40:40 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:40:40 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:40:41 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:40:41 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:40:42 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:40:42 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:40:43 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:40:43 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:40:43 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:40:43 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:40:44 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:40:44 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:40:45 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:40:45 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:40:45 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:40:45 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:40:46 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:40:46 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:40:47 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:40:47 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:40:47 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:40:47 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:40:48 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:40:49 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:40:49 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:40:50 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:40:50 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:40:50 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:40:51 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:40:51 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:40:51 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:40:51 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:40:52 PM Friday - BasePage - INFO : single tapped on the element
+20/08/21 06:40:52 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:40:53 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:44:00 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 06:44:00 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 06:44:00 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 06:44:00 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 06:44:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 06:44:01 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 06:44:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:44:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:44:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:44:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:44:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:44:13 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:44:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:44:13 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:44:14 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:44:14 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:44:15 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:44:15 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:44:15 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:44:16 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:44:16 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:44:16 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:44:17 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:44:17 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:44:18 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:44:18 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:44:18 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:44:19 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:44:19 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:44:19 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:44:20 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:44:20 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:44:21 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:44:21 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:44:21 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:44:22 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:44:23 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:44:23 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:44:23 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:44:24 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:44:24 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:44:24 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:44:24 PM Friday - BasePage - INFO : single tapped on the element
+20/08/21 06:44:50 PM Friday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:44:50 PM Friday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:45:09 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 06:45:09 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 06:45:09 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 06:45:09 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 06:45:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 06:45:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 06:45:20 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:45:21 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 06:45:21 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:45:21 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 06:45:22 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:45:23 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 06:45:23 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:45:23 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 06:45:23 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:45:24 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 06:45:24 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:45:25 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 06:45:25 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:45:26 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 06:45:26 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:45:26 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 06:45:26 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:45:27 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 06:45:27 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:45:27 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 06:45:28 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:45:28 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 06:45:29 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:45:29 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 06:45:29 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:45:29 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 06:45:30 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:45:31 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 06:45:31 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:45:32 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 06:45:32 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:45:33 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 06:45:33 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:45:33 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 06:45:33 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:45:33 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 06:45:34 PM Friday - BasePage - INFO : single tapped on the element
+20/08/21 06:45:34 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 06:45:34 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 07:32:23 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+20/08/21 07:32:23 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+20/08/21 07:32:23 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+20/08/21 07:32:23 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+20/08/21 07:32:23 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+20/08/21 07:32:24 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+20/08/21 07:32:35 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 07:32:35 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+20/08/21 07:32:35 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 07:32:36 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+20/08/21 07:32:36 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 07:32:37 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+20/08/21 07:32:37 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 07:32:37 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+20/08/21 07:32:38 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 07:32:38 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+20/08/21 07:32:38 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 07:32:38 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+20/08/21 07:32:39 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 07:32:39 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+20/08/21 07:32:40 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 07:32:40 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+20/08/21 07:32:40 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 07:32:41 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+20/08/21 07:32:41 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 07:32:41 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+20/08/21 07:32:42 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 07:32:42 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+20/08/21 07:32:43 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 07:32:43 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+20/08/21 07:32:43 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 07:32:43 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+20/08/21 07:32:44 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 07:32:45 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+20/08/21 07:32:45 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 07:32:46 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+20/08/21 07:32:47 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 07:32:47 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+20/08/21 07:32:47 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 07:32:47 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+20/08/21 07:32:48 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 07:32:48 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+20/08/21 07:32:48 PM Friday - BasePage - INFO : single tapped on the element
+20/08/21 07:33:14 PM Friday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+20/08/21 07:33:14 PM Friday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+23/08/21 05:29:51 PM Monday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+23/08/21 05:29:51 PM Monday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+23/08/21 05:29:51 PM Monday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+23/08/21 05:29:51 PM Monday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+23/08/21 05:29:51 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+23/08/21 05:29:51 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+23/08/21 05:30:02 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+23/08/21 05:30:03 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+23/08/21 05:30:03 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+23/08/21 05:30:03 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+23/08/21 05:30:03 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+23/08/21 05:30:04 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+23/08/21 05:30:04 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+23/08/21 05:30:04 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+23/08/21 05:30:05 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+23/08/21 05:30:05 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+23/08/21 05:30:06 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+23/08/21 05:30:06 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+23/08/21 05:30:06 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+23/08/21 05:30:07 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+23/08/21 05:30:07 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+23/08/21 05:30:07 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+23/08/21 05:30:08 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+23/08/21 05:30:09 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+23/08/21 05:30:09 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+23/08/21 05:30:09 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+23/08/21 05:30:09 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+23/08/21 05:30:10 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+23/08/21 05:30:10 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+23/08/21 05:30:10 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+23/08/21 05:30:11 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+23/08/21 05:30:11 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+23/08/21 05:30:12 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+23/08/21 05:30:12 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+23/08/21 05:30:12 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+23/08/21 05:30:13 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+23/08/21 05:30:14 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+23/08/21 05:30:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+23/08/21 05:30:14 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+23/08/21 05:30:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+23/08/21 05:30:15 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+23/08/21 05:30:15 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+23/08/21 05:30:16 PM Monday - BasePage - INFO : single tapped on the element
+23/08/21 05:30:16 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+23/08/21 05:30:17 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+23/08/21 05:30:48 PM Monday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+23/08/21 05:30:48 PM Monday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+23/08/21 05:30:48 PM Monday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+23/08/21 05:30:48 PM Monday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+23/08/21 05:30:48 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+23/08/21 05:30:48 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+23/08/21 05:30:59 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+23/08/21 05:30:59 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+23/08/21 05:31:00 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+23/08/21 05:31:00 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+23/08/21 05:31:01 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+23/08/21 05:31:01 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+23/08/21 05:31:01 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+23/08/21 05:31:02 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+23/08/21 05:31:02 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+23/08/21 05:31:02 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+23/08/21 05:31:03 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+23/08/21 05:31:04 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+23/08/21 05:31:04 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+23/08/21 05:31:04 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+23/08/21 05:31:04 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+23/08/21 05:31:04 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+23/08/21 05:31:05 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+23/08/21 05:31:06 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+23/08/21 05:31:06 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+23/08/21 05:31:06 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+23/08/21 05:31:07 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+23/08/21 05:31:07 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+23/08/21 05:31:07 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+23/08/21 05:31:07 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+23/08/21 05:31:08 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+23/08/21 05:31:08 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+23/08/21 05:31:09 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+23/08/21 05:31:09 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+23/08/21 05:31:10 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+23/08/21 05:31:11 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+23/08/21 05:31:11 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+23/08/21 05:31:11 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+23/08/21 05:31:11 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+23/08/21 05:31:11 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+23/08/21 05:31:12 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+23/08/21 05:31:12 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+23/08/21 05:31:13 PM Monday - BasePage - INFO : single tapped on the element
+23/08/21 05:31:13 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+23/08/21 05:31:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+01/10/21 11:35:02 AM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
+01/10/21 11:35:02 AM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
+01/10/21 11:35:02 AM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
+01/10/21 11:35:02 AM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don't agreeis displayed 
+01/10/21 11:35:02 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :android:id/button1
+01/10/21 11:35:02 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+01/10/21 11:35:14 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_2_s
+01/10/21 11:35:14 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_2_s
+01/10/21 11:35:14 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_1_s
+01/10/21 11:35:15 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_1_s
+01/10/21 11:35:15 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_0_s
+01/10/21 11:35:16 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_0_s
+01/10/21 11:35:16 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_8_s
+01/10/21 11:35:16 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_8_s
+01/10/21 11:35:17 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_plus_s
+01/10/21 11:35:17 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_plus_s
+01/10/21 11:35:18 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_9_s
+01/10/21 11:35:18 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_9_s
+01/10/21 11:35:18 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_7_s
+01/10/21 11:35:18 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_7_s
+01/10/21 11:35:19 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_minus_s
+01/10/21 11:35:19 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_minus_s
+01/10/21 11:35:20 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_4_s
+01/10/21 11:35:20 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_4_s
+01/10/21 11:35:21 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_mul_s
+01/10/21 11:35:21 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_mul_s
+01/10/21 11:35:21 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_3_s
+01/10/21 11:35:21 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_3_s
+01/10/21 11:35:22 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_percent_s
+01/10/21 11:35:22 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_percent_s
+01/10/21 11:35:23 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_5_s
+01/10/21 11:35:23 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_5_s
+01/10/21 11:35:23 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_equal_s
+01/10/21 11:35:24 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_equal_s
+01/10/21 11:35:24 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_switch
+01/10/21 11:35:26 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_switch
+01/10/21 11:35:26 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/btn_del_s
+01/10/21 11:35:26 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/btn_del_s
+01/10/21 11:35:27 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/lyt_sin
+01/10/21 11:35:27 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/lyt_sin
+01/10/21 11:35:27 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/ic_cal_more
+01/10/21 11:35:28 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/ic_cal_more
+01/10/21 11:35:28 AM Friday - BasePage - INFO : single tapped on the element
+01/10/21 11:35:28 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
+01/10/21 11:35:29 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
