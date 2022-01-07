@@ -2,7 +2,7 @@ from calchan.base.BasePage import BasePage
 import calchan.utilities.CustomLogger as cl
 
 
-class CalculatorHome(BasePage):  # extends here
+class CalculatorHome(BasePage):  # extends here -- inheritance
 
     def __init__(self, driver):
         super().__init__(driver) # overiding since in basepage we have already initialised the page
