@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 from calchan.base.BasePage import BasePage
 import calchan.utilities.CustomLogger as cl
 
 
 class CalculatorHome(BasePage):  # extends here -- inheritance
+=======
+from CalculatorFrameWork.base.BasePage import BasePage
+import CalculatorFrameWork.utilities.CustomLogger as cl
+
+
+class CalculatorHome(BasePage):  # extends here
+>>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
 
     def __init__(self, driver):
         super().__init__(driver) # overiding since in basepage we have already initialised the page
@@ -65,7 +73,10 @@ class CalculatorHome(BasePage):  # extends here -- inheritance
     def clickprivacypolicyagree(self):
         self.clickElement(self._privacypolicyagree, 'id')
         cl.allureLogs('verified agree')
+<<<<<<< HEAD
         self.takeScreenshot('privacy')
+=======
+>>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
 
     def clickprivacypolicydisagree(self):
         self.clickElement(self._privacypolicydisagree,'id')

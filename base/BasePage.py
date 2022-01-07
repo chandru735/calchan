@@ -3,7 +3,11 @@ from allure_commons.types import AttachmentType
 from appium.webdriver.common.touch_action import TouchAction
 from selenium.common.exceptions import ElementNotVisibleException, ElementNotSelectableException, NoSuchElementException
 from selenium.webdriver.support.wait import WebDriverWait
+<<<<<<< HEAD
 import calchan.utilities.CustomLogger as cl
+=======
+import CalculatorFrameWork.utilities.CustomLogger as cl
+>>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
 import time
 
 
@@ -14,7 +18,10 @@ class BasePage:
         self.driver = driver
 
     def waitForElement(self, locatorvalue, locatorType):
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
         locatorType = locatorType.lower()
         element = None
         wait = WebDriverWait(self.driver, 25, poll_frequency=1,

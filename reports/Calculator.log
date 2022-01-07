@@ -678,6 +678,7 @@
 23/08/21 05:31:13 PM Monday - BasePage - INFO : single tapped on the element
 23/08/21 05:31:13 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
 23/08/21 05:31:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+<<<<<<< HEAD
 01/10/21 11:35:02 AM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Agree
 01/10/21 11:35:02 AM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Agreeis displayed 
 01/10/21 11:35:02 AM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don't agree
@@ -723,3 +724,5 @@
 01/10/21 11:35:28 AM Friday - BasePage - INFO : single tapped on the element
 01/10/21 11:35:28 AM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.miui.calculator:id/iv_tab_finance
 01/10/21 11:35:29 AM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.miui.calculator:id/iv_tab_finance
+=======
+>>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
