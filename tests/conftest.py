@@ -1,11 +1,6 @@
 import pytest
 import time
-<<<<<<< HEAD
-from calchan.base.DriverClass import Driver
-=======
-from CalculatorFrameWork.base.DriverClass import Driver
->>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
-
+from base.DriverClass import Driver
 
 @pytest.yield_fixture(scope='class')
 def beforeClass(request):

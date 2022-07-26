@@ -13,16 +13,15 @@ class Driver:
         desired_caps['deviceName'] = 'Mi 11 Ultra'
         desired_caps["appWaitForLaunch"] = False
         desired_caps["autoGrantPermissions"] = True
-<<<<<<< HEAD
+
         desired_caps['automationame'] = "uiautomator2"
         desired_caps['ignoreHiddenApiPolicyError'] = True
         desired_caps['automationame'] = 'Appium'
 
-        driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub",desired_caps)
+        # driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub",desired_caps)
 
-=======
 
         driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_caps)
->>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
+
 
         return driver

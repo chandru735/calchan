@@ -1,18 +1,9 @@
 import unittest
 
 import pytest
+import utilities.CustomLogger as cl
+from pages.CalculatorHomeScreenPage import CalculatorHome
 
-<<<<<<< HEAD
-from calchan.base.DriverClass import Driver
-import calchan.utilities.CustomLogger as cl
-from calchan.base.BasePage import BasePage
-from calchan.pages.CalculatorHomeScreenPage import CalculatorHome
-=======
-from CalculatorFrameWork.base.DriverClass import Driver
-import CalculatorFrameWork.utilities.CustomLogger as cl
-from CalculatorFrameWork.base.BasePage import BasePage
-from CalculatorFrameWork.pages.CalculatorHomeScreenPage import CalculatorHome
->>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
 
 @pytest.mark.usefixtures("beforeClass", "beforeMethod")
 class CalculatorMainHomeScreen(unittest.TestCase):
@@ -59,9 +50,3 @@ class CalculatorMainHomeScreen(unittest.TestCase):
 
 
 
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 9a2f44cf64a28d3c1013b837a34b4673c38f3921
